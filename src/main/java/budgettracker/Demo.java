@@ -1,3 +1,5 @@
+package budgettracker;
+
 import java.util.Scanner;
 
 class Demo {
